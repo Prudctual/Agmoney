@@ -26,7 +26,7 @@ Follow these steps to transition Agmoney from local development to a live produc
 - [ ] Test the "Vault" encryption/decryption loop with a real OpenAI key.
 - [ ] Verify that deleting an agent in the dashboard immediately blocks requests in the proxy.
 - [ ] Ensure the "Monthly Spend" resets correctly (or implement a monthly cron job for spend reset).
-- [ ] Add a custom domain to the Cloudflare Worker (e.g., `api.agmoney.dev`).
+- [ ] Add a custom domain to the Cloudflare Worker (e.g., `api.agmoney.aiandthings.tech`).
 
 ---
 
